@@ -22,7 +22,7 @@ pip install termcolor
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bulk-email-sender.git
+   git clone https://github.com/Karajbro/devilx-bulk-email-sender
    cd bulk-email-sender
    ```
 2. Create a text file containing the email addresses of recipients (one email per line).
