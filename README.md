@@ -6,7 +6,6 @@ This Bulk Email Sender Tool is designed for sending bulk emails efficiently usin
 - **Custom Email Templates**: Use an HTML file for personalized email design.
 - **Logs Sent and Failed Emails**: Keeps track of successful and failed email deliveries.
 - **Secure Connection**: Uses TLS encryption for secure communication with the SMTP server.
-<img width="562" alt="mailx" src="https://github.com/user-attachments/assets/f12358fb-22c3-4415-bc0a-04babdbea086" />
 
 ## Prerequisites
 - Python 3.6+
