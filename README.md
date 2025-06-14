@@ -64,4 +64,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Created by Karaj Singh. Connect on Telegram: [@ShadowCipher_org](https://t.me/ShadowCipher_org).
+Created by Karaj Singh. Connect on Telegram: [@ShadowCipher_org](https://t.me/the_coffin_polymath).
